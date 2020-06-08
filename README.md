@@ -87,7 +87,7 @@ javascript: DrawRectangle()
 11.Draw Circle:
 
 block: Draw Circle.
-javascript: DrawCirclee()
+javascript: DrawCircle()
 
 12.Show String:
 
